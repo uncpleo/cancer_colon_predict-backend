@@ -32,4 +32,4 @@ def predict():
 
 if __name__ == '__main__':
     # Iniciar la aplicación Flask en el puerto 5000
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=80)
